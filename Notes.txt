@@ -1,0 +1,5 @@
+https://southcentralus.api.cognitive.microsoft.com/customvision/v2.0/Prediction/2a757309-0188-4149-83a1-5804474bc983/image
+
+Set Prediction-Key Header to : 5591d04b55e04b5a9d9eb031de1bd9c5
+Set Content-Type Header to : application/octet-stream
+Set Body to : <image file>
