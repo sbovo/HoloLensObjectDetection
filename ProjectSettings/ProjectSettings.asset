@@ -564,7 +564,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloLensObjectDetection
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\_Dev\GitHub\sbovo\HoloLensObjectDetection\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
